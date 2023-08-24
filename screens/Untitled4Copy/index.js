@@ -1,14 +1,14 @@
 import React from "react";
 import { View, StyleSheet, ScrollView, SafeAreaView } from "react-native";
 
-const Otiginal005Screen = () => {
+const Untitled4Copy = () => {
   return <SafeAreaView style={styles.safeArea}>
         <ScrollView contentContainerStyle={{
       backgroundColor: '#f0f0f1',
       padding: 10,
       position: 'relative',
       flex: 1
-    }}><View style={styles.IZqRnTyn}></View></ScrollView>
+    }}><View style={styles.wUMkjwAw}></View></ScrollView>
     </SafeAreaView>;
 };
 
@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
   safeArea: {
     height: '100%'
   },
-  IZqRnTyn: {
+  wUMkjwAw: {
     height: 60,
     width: 140,
     backgroundColor: "#E4E4E4",
@@ -24,4 +24,4 @@ const styles = StyleSheet.create({
     color: "#777777"
   }
 });
-export default Otiginal005Screen;
+export default Untitled4Copy;
