@@ -1,14 +1,14 @@
 import React from "react";
 import { View, StyleSheet, ScrollView, SafeAreaView } from "react-native";
 
-const OriginalPathname = () => {
+const Untitled4 = () => {
   return <SafeAreaView style={styles.safeArea}>
         <ScrollView contentContainerStyle={{
       backgroundColor: '#f0f0f1',
       padding: 10,
       position: 'relative',
       flex: 1
-    }}><View style={styles.wRXfsURO}></View></ScrollView>
+    }}><View style={styles.HQKgcSUm}></View></ScrollView>
     </SafeAreaView>;
 };
 
@@ -16,14 +16,12 @@ const styles = StyleSheet.create({
   safeArea: {
     height: '100%'
   },
-  wRXfsURO: {
-    height: 616,
+  HQKgcSUm: {
+    height: 60,
     width: 140,
-    backgroundColor: "#b90f0f",
+    backgroundColor: "#E4E4E4",
     borderRadius: 0,
-    color: "#777777",
-    flexDirection: "row",
-    flex: 1
+    color: "#777777"
   }
 });
-export default OriginalPathname;
+export default Untitled4;
